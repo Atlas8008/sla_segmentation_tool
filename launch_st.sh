@@ -1,4 +1,4 @@
 #!/bin/bash
 
-jupyter notebook "Segmentation Tool.ipynb"
+jupyter notebook "segmentation_tool.ipynb"
 
